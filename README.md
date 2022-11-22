@@ -6,7 +6,7 @@ The main goal of this project was to take a very unaccessable website and turn i
 
 ## How to use
 
-Visit the website [here](notenoughbacon.github.io/horiseon) and inspect element to see the changes and see how accessable I have made it.
+Visit the website [here](https://notenoughbacon.github.io/Horiseon/) and inspect element to see the changes and see how accessable I have made it.
 
 ## Screenshots of project
 
