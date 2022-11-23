@@ -12,13 +12,6 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -44,6 +37,13 @@ a {
     text-decoration: none;
 }
 
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +58,8 @@ a {
     margin-left: 20px;
 }
 
+/*combined all the main content*/
+
 .main {
     margin-bottom: 20px;
     padding: 50px;
@@ -65,8 +67,6 @@ a {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-/*combined all the main content*/
 
 .main img {
     max-height: 200px;
